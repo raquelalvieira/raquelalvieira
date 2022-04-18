@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raquelalvieira and i'm a Chemical engineer
-- 👀 I’m interested in learning more about this new world full of code
+- 👀 I’m interested in learning more about this new world full of Big Data
 - 🌱 I’m currently learning big data
 
 <!---
